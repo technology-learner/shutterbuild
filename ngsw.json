@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1723451385149,
-  "index": "/index.html",
+  "timestamp": 1723453043496,
+  "index": "shutterbuild/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/70.7834898cbabb6a03.js",
-        "/favicon.ico",
-        "/index.html",
-        "/main.1d26a274410aa105.js",
-        "/manifest.webmanifest",
-        "/polyfills.591a023fbc265b21.js",
-        "/runtime.5789e10e9fb43495.js",
-        "/styles.fb6b49bacf1949f1.css"
+        "shutterbuild/70.7834898cbabb6a03.js",
+        "shutterbuild/favicon.ico",
+        "shutterbuild/index.html",
+        "shutterbuild/main.69add1654d530baa.js",
+        "shutterbuild/manifest.webmanifest",
+        "shutterbuild/polyfills.591a023fbc265b21.js",
+        "shutterbuild/runtime.5789e10e9fb43495.js",
+        "shutterbuild/styles.fb6b49bacf1949f1.css"
       ],
       "patterns": []
     },
@@ -30,36 +30,36 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "shutterbuild/assets/icons/icon-128x128.png",
+        "shutterbuild/assets/icons/icon-144x144.png",
+        "shutterbuild/assets/icons/icon-152x152.png",
+        "shutterbuild/assets/icons/icon-192x192.png",
+        "shutterbuild/assets/icons/icon-384x384.png",
+        "shutterbuild/assets/icons/icon-512x512.png",
+        "shutterbuild/assets/icons/icon-72x72.png",
+        "shutterbuild/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/70.7834898cbabb6a03.js": "5793c5e76f904e0b965245773f7b6913e09962e4",
-    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "935c0308464f4dd1fafa32289618de1335d72b46",
-    "/main.1d26a274410aa105.js": "43e59515bcae3b4e32d732ff2dcd1c0af1cb6315",
-    "/manifest.webmanifest": "29c5e723d364ed5f79fa781fef14b836a1bf65be",
-    "/polyfills.591a023fbc265b21.js": "56efc1dca9e1630c00e21ab704af3c63ffc5c47b",
-    "/runtime.5789e10e9fb43495.js": "ad42b07a91fc8d73151b656c964aa746d3719fe2",
-    "/styles.fb6b49bacf1949f1.css": "8358aae1f5267cbc963a05288fcd62d4ffc1ea76"
+    "shutterbuild/70.7834898cbabb6a03.js": "5793c5e76f904e0b965245773f7b6913e09962e4",
+    "shutterbuild/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "shutterbuild/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "shutterbuild/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "shutterbuild/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "shutterbuild/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "shutterbuild/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "shutterbuild/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "shutterbuild/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "shutterbuild/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "shutterbuild/index.html": "1de8d6de4ae68f4a0fa0d8c3bc0840ceb2733b60",
+    "shutterbuild/main.69add1654d530baa.js": "b2145fcadc9090e9633a941f99675ab3c5c60e14",
+    "shutterbuild/manifest.webmanifest": "29c5e723d364ed5f79fa781fef14b836a1bf65be",
+    "shutterbuild/polyfills.591a023fbc265b21.js": "56efc1dca9e1630c00e21ab704af3c63ffc5c47b",
+    "shutterbuild/runtime.5789e10e9fb43495.js": "ad42b07a91fc8d73151b656c964aa746d3719fe2",
+    "shutterbuild/styles.fb6b49bacf1949f1.css": "8358aae1f5267cbc963a05288fcd62d4ffc1ea76"
   },
   "navigationUrls": [
     {
